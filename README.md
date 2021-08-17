@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ashley-Soderlund
 - 👀 I’m interested in internships for college students over the summer
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me ansoderlund@gmail.com
 
 <!---
